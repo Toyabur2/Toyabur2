@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Toyabur Rahman</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh 🇧🇩</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=toyabur2&label=Profile%20views&color=0e75b6&style=flat" alt="toyabur2" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=toyabur2" alt="toyabur2" /></a> </p>
-
 - Hi, I'm **A responsive portfolio website using React.js and Tailwind CSS**
 
 - 🌱 I’m currently learning: **React.js, Next.js, Tailwind CSS, TypeScript, and Firebase**
